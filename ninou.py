@@ -46,4 +46,4 @@ class CustomStreamListener(tweepy.StreamListener):
         return True
 
 sapi = tweepy.streaming.Stream(auth, CustomStreamListener())
-sapi.filter(track=['Ninou'])
+sapi.filter(track=['Ninou', 'Elpy'])
