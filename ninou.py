@@ -1,13 +1,14 @@
+#!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 import sys
 import os
 import time
 import tweepy
 
-consumer_key = "xoxoxoxoxo"
-consumer_secret = "xoxoxoxoxo"
-access_key = "xoxoxoxoxo"
-access_secret = "xoxoxoxoxo"
+consumer_key = "xoxoxoxoxo" # CONSUMMER KEY
+consumer_secret = "xoxoxoxoxo" # CONSUMMER SECRET
+access_key = "xoxoxoxoxo" # ACCESS TOKEN
+access_secret = "xoxoxoxoxo" # ACCESS TOKEN SECRET
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_key, access_secret)
