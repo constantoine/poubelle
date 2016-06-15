@@ -21,28 +21,28 @@
 
 	<a href="https://apps.twitter.com/">Rendez vous donc à cette adresse</a> <br> <br>
 
-	<img src="img/create_app.png"> <br> <br>
+	<img src="img/create_app.PNG"> <br> <br>
 
-	<img src="img/app_2.png"> <br> <br>
+	<img src="img/app_2.PNG"> <br> <br>
 
-	<img src="img/app_3.png"> <br> <br>
+	<img src="img/app_3.PNG"> <br> <br>
 
 	<h3>
 		Ensuite, allez dans "keys and access tokens" et cliquez sur "change app permissions"
 	</h3>
 
-	<img src="img/app_4.png"> <br> <br>
+	<img src="img/app_4.PNG"> <br> <br>
 
-	<img src="img/app_5.png">
+	<img src="img/app_5.PNG">
 
 	<h3>
 		Maintenant retournez dans "keys and access tokens" et générez votre token
 	</h3>
-	<img src="img/app_6.png">
+	<img src="img/app_6.PNG">
 	<div>
 		Ne donnez aucun des quatre codes à quique ce soit. En effet, ces codes permettent à votre application ici de lire vos MPs et de tweeter à votre place. Voilà pourquoi vous devez être les seuls à les connaître. Je vous rappelle ici que vous pouvez utiliser la même applications pour plusieurs programmes en python, mais que pour éviter d'avoir des problèmes avec l'API, qui limite le nombre de requêtes sur 15 minutes, si jamais vous voulez faire tourner plusieurs programmes simultanément, peut-être vaut-il mieux d'avoir une application pour chaque programme. Maintenant dans le programme que vous voulez utiliser, copiez vos codes. Pour ce faire, clic droit > Ouvrir avec > bloc-note (Ou un autre éditeur de texte, mais surtout ne l'ouvrez pas comme ça, sinon vous allez le lancer) Et remplacez les "xoxoxoxoxo" par les codes à droite sur les lignes correspondantes
 	</div>
-	<img src="img/app_6.png">
+	<img src="img/app_6.PNG">
 	<div>
 		Et voilà ! C'est terminé, vous êtes prêts à utiliser les programmes ! o/
 	</div>
@@ -74,9 +74,9 @@
 <div>
 	Une fois les codes renseignés comme décrit dans le chapitre "installation", la seule chose que vous avez à faire, c'est personnaliser les filtres. Vous pouvez soit rechercher un seul mot, soit rechercher les tweets qui contiennent au moins un des mots de la liste : <br> <br>
 
-	<img src="img/ninou_1.png"> <br> <br>
+	<img src="img/ninou_1.PNG"> <br> <br>
 
-	<img src="img/ninou_2.png">
+	<img src="img/ninou_2.PNG">
 </div>
 <h3>
 	Que dire de plus ?
