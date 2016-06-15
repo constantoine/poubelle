@@ -1,5 +1,5 @@
 <h1>
-	La poubelle de Constantoine
+	La poubelle de Cléo
 </h1>
 <h2>
 	Installation
