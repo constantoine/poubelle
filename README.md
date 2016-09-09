@@ -51,7 +51,7 @@
 	Une idée ? Une demande de programme ? Un bug ? Une suggestion ?
 </h2>
 <div>
-	Vous pouvez m'envoyer un <a href="https://twitter.com/ConstantoineMLP">message privé sur twitter</a>, mes DMs sont ouverts. N'hésitez pas ^^
+	Vous pouvez m'envoyer un <a href="https://twitter.com/Une_Livre">message privé sur twitter</a>, mes DMs sont ouverts. N'hésitez pas ^^
 </div>
 <h2>
 	Ninou.py
