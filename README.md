@@ -9,7 +9,7 @@
 
 	Pour commencer, <a href="https://www.python.org/ftp/python/3.5.1/python-3.5.1-amd64.exe">vous pouvez installer python 3.5 ici</a> si vous ne le possédez pas déjà. Bon, pour installer un programme, je vous fais confiance. Je vous retrouve pour la suite <br> <br>
 
-	Une fois python installé sur votre windows, vous allez devoir installer tweepy, une extension qui permet de faire des trucs avec twitter. Pour se faire, ouvrez une invite de commande en mode administrateur. (En gros, taper "cmd" dans la barre de recherche du menu démarrer, faites un clic droit sur "invite de commande" et cliquer sur "exécuter en tant qu'administrateur") <br> <br>
+	Une fois python installé sur votre windows, vous allez devoir installer tweepy, une extension qui permet de faire des trucs avec twitter. Pour se faire, ouvrez une invite de commande en mode administrateur. (En gros, tapez "cmd" dans la barre de recherche du menu démarrer, faites un clic droit sur "invite de commande" et cliquer sur "exécuter en tant qu'administrateur") <br> <br>
 
 	Ensuite, tapez "pip install tweepy" (sans les guillemets) et appuyez sur enter <br> <br>
 
