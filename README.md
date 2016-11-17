@@ -91,7 +91,7 @@
 	Pourquoi ?
 </h3>
 <div>
-	Nox avait évoqué que le fait que le terme "Nox" était souvent utiliser, c'était compliqué de rechercher ses indirects. Alors voilà
+	Nox avait évoqué que le fait que le terme "Nox" était souvent utilisé, c'était compliqué de rechercher ses indirects. Alors voilà
 </div>
 <h3>
 	Quoi ?
