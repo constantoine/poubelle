@@ -44,7 +44,7 @@ Et voilà ! C'est terminé, vous êtes prêts à utiliser les programmes ! o/
 
 ## Une idée ? Une demande de programme ? Un bug ? Une suggestion ?
 
-Vous pouvez m'envoyer un [message privé sur twitter](https://twitter.com/Une_Livre), mes DMs sont ouverts. N'hésitez pas ^^
+Vous pouvez m'envoyer un [message privé sur twitter](https://twitter.com/Lazy_Bouquine), mes DMs sont ouverts. N'hésitez pas ^^
 
 ## Ninou.py
 
